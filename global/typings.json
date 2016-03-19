@@ -1,0 +1,9 @@
+{
+    "name": "knockout.mapping",
+    "main": "index.d.ts",
+    "version": "^2.0.0",
+    "ambient": true,
+    "ambientDependencies": {
+        "knockout": "registry:global/knockout#3.4.0+20160315225835"
+    }
+}
