@@ -1,0 +1,7 @@
+{
+  "version": false,
+  "ambientDependencies": {
+    "knockout": "registry:global/knockout#3.4.0+20160315225835",
+    "knockout.mapping": "file:../../global/typings.json"
+  }
+}

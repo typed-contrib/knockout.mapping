@@ -1,0 +1,7 @@
+{
+  "version": false,
+  "dependencies": {
+    "knockout": "registry:npm/knockout#3.4.0+20160315225509",
+    "knockout.mapping": "file:../../typings.json"
+  }
+}
