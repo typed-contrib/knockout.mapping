@@ -1,0 +1,39 @@
+{
+  "name": "@types/knockout.mapping",
+  "version": "2.0.0",
+  "description": "Type definitions for https://github.com/SteveSanderson/knockout.mapping",
+  "main": "lib/index.d.ts",
+  "author": "typed-contrib",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/typed-contrib/knockout.mapping#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typed-contrib/knockout.mapping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typed-contrib/knockout.mapping/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tsc -p . && cd test && npm install && tsc -p ."
+  },
+  "keywords": [
+    "typings",
+    "definitions",
+    "typescript",
+    "knockout",
+    "mapping",
+    "mvvm",
+    "binding",
+    "typed-contrib",
+    "typed",
+    "types",
+    "tsd"
+  ],
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
