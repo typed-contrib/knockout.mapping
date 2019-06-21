@@ -17,7 +17,7 @@ declare module knockoutMapping {
         update?: (options: UpdateOptions) => void;
         key?: (data: any) => any;
         
-        [key: string]: string[] | boolean | Function | Options;
+        [key: string]: string[] | boolean | Function | Options | undefined;
     }
 
     export interface CreateOptions {
